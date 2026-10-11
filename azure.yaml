@@ -1,0 +1,6 @@
+name: azure-fundamentals-class
+services:
+  web:
+    project: .
+    language: js
+    host: staticwebapp
